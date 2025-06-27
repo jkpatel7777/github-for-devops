@@ -21,3 +21,4 @@
    git restore testing.py
  git status
    git init
+   git remote add origin 
